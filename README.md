@@ -129,10 +129,10 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Claudia Rojas**
+👤 **Daniel Villalba L**
 
--   GitHub: [@githubhandle](https://github.com/gdvl777)
--   X: [LinkedIn](https://www.x.com/gdvl777_)
+-   GitHub: [@gdvl777](https://github.com/gdvl777)
+-   X: [@gdvl777](https://www.x.com/gdvl777_)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

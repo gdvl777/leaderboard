@@ -172,6 +172,6 @@
 
 ## 📝 License <a name="license"></a>
 
-> This project is [MIT licensed](https://github.com/gdvl777/Leaderboard/blob/dev/MIT.md).
+> This project is [MIT licensed](https://github.com/gdvl777/leaderboard_OK/blob/qa_leaderboard/MIT.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

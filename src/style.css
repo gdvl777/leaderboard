@@ -71,7 +71,7 @@ ul.scores-list li {
 }
 
 ul.scores-list li:nth-child(even) {
-  background-color: #7165d0;
+  background-color: #65c9d0;
 }
 
 ul.scores-list li:nth-child(odd) {

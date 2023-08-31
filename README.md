@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> You can see a Demo here: [Demo](https://claudiarojassoto.github.io/Leaderboard/dist/)
+> You can see a Demo here: [Demo](https://gdvl777.github.io/Leaderboard_ok/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +86,7 @@
 
 > -Clone this repository to your local machine using:
 
->  git clone https://github.com/ClaudiaRojasSoto/Leaderboard.git
+>  git clone https://github.com/gdvl777/Leaderboard_ok.git
 
 > -Navigate to the project folder:
 
@@ -113,7 +113,7 @@
 
 ### Setup
 
-> Clone this repository to your desired folder: https://github.com/ClaudiaRojasSoto/Leaderboard.git
+> Clone this repository to your desired folder: https://github.com/gdvl777/Leaderboard_ok.git
 
 ### Install
 
@@ -131,8 +131,8 @@
 
 👤 **Claudia Rojas**
 
--   GitHub: [@githubhandle](https://github.com/ClaudiaRojasSoto)
--   LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudia-soto-260504208/)
+-   GitHub: [@githubhandle](https://github.com/gdvl777)
+-   X: [LinkedIn](https://www.x.com/gdvl777_)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -148,7 +148,7 @@
 
 > Contributions, issues, and feature requests are welcome!
 
-> Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/Leaderboard/issues).
+> Feel free to check the [issues page](https://github.com/gdvl777/Leaderboard_ok/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,6 +172,6 @@
 
 ## 📝 License <a name="license"></a>
 
-> This project is [MIT licensed](https://github.com/ClaudiaRojasSoto/Leaderboard/blob/dev/MIT.md).
+> This project is [MIT licensed](https://github.com/gdvl777/Leaderboard/blob/dev/MIT.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
